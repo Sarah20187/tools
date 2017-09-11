@@ -1,4 +1,4 @@
--- @Author: 18mat
+-- @FBCECriterion: focal loss BCE 
 -- @Date:   2017-09-07 14:46:50
 -- @Last Modified by:   18mat
 -- @Last Modified time: 2017-09-08 18:18:36
